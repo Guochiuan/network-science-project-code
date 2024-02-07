@@ -1,3 +1,3 @@
 network science note
 update 
-2/2/2024
+2/8/2024
